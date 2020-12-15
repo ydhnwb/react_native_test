@@ -5,7 +5,7 @@ export const getIDJSON = (from, to) => {
             id = '1109001'
             return id
         }else if(to == 'chittagong'){
-            id = '1109001'
+            id = '1109002'
             return id
         }else if(to == 'kuakata'){
             id = '1109004'
@@ -21,8 +21,8 @@ export const getIDJSON = (from, to) => {
         if(to == 'chittagong'){
             id = '2209002'
             return id
-        }else if(to == 'chittagong'){
-            id = '2209002'
+        }else if(to == 'dhaka'){
+            id = '2209001'
             return id
         }else {
             id = '2209003'
